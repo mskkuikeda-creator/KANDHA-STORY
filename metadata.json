@@ -1,0 +1,7 @@
+{
+  "name": "Odia Kandha Tribe Story Generator",
+  "description": "An application that generates a 1000-word story in the Odia language for the Kandha tribe people of Odisha, suitable for a viral Facebook post, and creates a relevant image.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
